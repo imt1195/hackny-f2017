@@ -1,1 +1,0 @@
-This folder is for the 3d models and other assets used for this project in the unity game engine
